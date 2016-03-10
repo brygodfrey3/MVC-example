@@ -1,3 +1,8 @@
 # MVC-example
 
-test
+3/10/16
+
+This package shows a simple - addition only - calculator, which uses a model, view, and controller class.
+This is a good, simple example of the layout and purpose of the MVC.
+
+Tested and working.
